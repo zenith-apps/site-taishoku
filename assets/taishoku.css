@@ -1,0 +1,10 @@
+:root {
+  --bg: #f7f4ee;
+  --ink: #243028;
+  --muted: #55645b;
+  --line: #e1ddd2;
+  --accent: #3f6f5b;
+  --accent-ink: #f4fff9;
+  --paper: #fffcf7;
+}
+body { background: linear-gradient(180deg, #fcfaf6, #f3eee4); }
